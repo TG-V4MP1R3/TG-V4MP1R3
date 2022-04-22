@@ -2,7 +2,7 @@
 #<b>**ABOUT ME** </b>
 
 
-┣ ***OG NAME : KIRAN 🧸***                                                                                       
+┣ ***RL NAME : KIRAN 🧸***                                                                                       
 ┣  ***TG NAME : VAMPIRE***  
 ┣  ***CURRENTLY STUDYING  🍫***                   
 ┣  ***STD : 0***            
