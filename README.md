@@ -11,8 +11,7 @@
 ### Reach Me
 
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_dddddooowwwss) <a href="
-https://t.me/KP51107"><img src="https://telegra.ph/file/6098047142dec2b0cba9b.jpg" width="114"></a></p> 
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_dddddooowwwss) <a href="https://t.me/KP51107"><img src="https://telegra.ph/file/6098047142dec2b0cba9b.jpg" width="114"></a></p> 
 <details> <summary> <b> #Status </b> </summary>
  
 #### + _Vampire's Github Stats_
