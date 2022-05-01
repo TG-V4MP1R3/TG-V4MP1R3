@@ -1,11 +1,8 @@
-#  ɪᴛᴢ ᴍᴇ ᴠᴀᴍᴘɪʀᴇ
 #<b>**ABOUT ME** </b>
 
 
-┣ ***RL NAME : KIRAN 🧸***                                                                                       
-┣  ***TG NAME : VAMPIRE***  
-┣  ***CURRENTLY STUDYING  🍫***                   
-┣  ***STD : 0***            
+┣ ***RL NAME : KIRAN***                                                                                        
+┣  ***CURRENTLY STUDYING***                               
 ┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
 ┣ ***FROM INDIA [🇮🇳]***                                                                       
 ┗ ━ ━ ━ ━ ━ ━ 
