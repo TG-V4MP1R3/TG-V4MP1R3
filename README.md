@@ -1,13 +1,5 @@
 
-## <!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+TG-Vampire+Profile."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+![My card name](https://cardivo.vercel.app/api?name=TG-V4MP1R3&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/6bf7aeb6be31929cb1933.jpg/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecf0f1&telegram=@KP51107&github=TG-V4MP1R3&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 <div align="center">
   <p align="center">
 <img src="https://media.giphy.com/media/UO3ciqKzpEysXdRuzM/giphy.gif" alt="GIF" width="128" height="128"/>
