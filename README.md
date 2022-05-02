@@ -21,14 +21,13 @@
 </p>
 </div>
 
-#<b>**MORE ABOUT ME** </b>
 
 
-┣ ***RL NAME : KIRAN***                                                                                        
-┣  ***CURRENTLY STUDYING***                               
-┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
-┣ ***FROM INDIA [🇮🇳]***                                                                       
-┗ ━ ━ ━ ━ ━ ━   
+- 🧑 My Real Name is **KIRAN.**
+
+- 📖 I’m currently learning **Python** and **Java**
+
+- 🌍 I’m From **Kerala [🇮🇳]**
 
 ----
 <p align="center">
