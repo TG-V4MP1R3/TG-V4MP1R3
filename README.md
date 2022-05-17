@@ -28,8 +28,6 @@
 
 - 👨‍💻 All of my projects are available
                    **[Here](https://github.com/TG-V4MP1R3?tab=repositories)**
-                   
-- 📫 Contact me on  **[Telegram](https://t.me/KP51107)**
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/TG-V4MP1R3)**
 
