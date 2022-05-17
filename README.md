@@ -31,7 +31,7 @@
 
 
 ----
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TG-V4MP1R3&show_icons=true&theme=dark&locale=en&layout=compact" alt="TG-V4MP1R3" /></p>
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TG-V4MP1R3&show_icons=true&theme=dark" alt="TG-V4MP1R3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TG-V4MP1R3&show_icons=true&theme=dark&locale=en" alt="TG-V4MP1R3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TG-V4MP1R3&theme=dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TG-V4MP1R3"/></p></a><br> 
