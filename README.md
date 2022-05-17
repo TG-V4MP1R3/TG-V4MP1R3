@@ -1,5 +1,24 @@
-# HI I'M TG V4MP1R3&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
-![My card name](https://cardivo.vercel.app/api?name=TG%20-%20V4MPIR3&description=Hi,%20Welcome%20To%20My%20Profile%20💖&image=https://telegra.ph/file/39d91db70bd9c78082694.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&twitter=tg_vampire&github=TG-V4MP1R3&pattern=leaf&colorPattern=%23eaeaea)
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+TG-V4MP1R3+Profile."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<div align="center">
+  <p align="center">
+<img src="https://media.giphy.com/media/UO3ciqKzpEysXdRuzM/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
+ <p align="center">
+<a href="#"><img title="V4MP1R3" src="https://img.shields.io/badge/V4MP1R3-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://t.me/KP51107"><img title="CONTACT" src="https://img.shields.io/badge/TELEGRAM-CONTACT-/?color=blue&style=for-the-badge&logo=Telegram"></a>
+</p>
+</div>
 
 - 🧑 My Real Name is **Kiran**
 
