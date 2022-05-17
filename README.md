@@ -24,8 +24,6 @@
 
 - 🧑 My Real Name is **Kiran**
 
-- 🌍 I’m From **India [🇮🇳]**
-
 - 📖 I’m currently learning **Python** and **Java**
 
 - 👨‍💻 All of my projects are available
