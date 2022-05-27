@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-<img src="https://media.giphy.com/media/UO3ciqKzpEysXdRuzM/giphy.gif" alt="GIF" width="128" height="128"/>
+<img src="https://media.giphy.com/media/oH5tEvDODYvJsU1YGW/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
     
 <p align="middle">
