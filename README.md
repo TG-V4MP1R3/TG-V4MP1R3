@@ -14,7 +14,7 @@
 </p>
     
 <p align="middle">
-<a href="https://github.com/TG-V4MP1R3?tab=repositories"><img src="https://img.shields.io/badge/Mʏ Pʀᴏᴊᴇᴄᴛs-purple.svg?logo=github"></a>
+<a href="https://github.com/TG-V4MP1R3?tab=repositories"><img src="https://img.shields.io/badge/Mʏ Pʀᴏᴊᴇᴄᴛs-purple.svg?logo=python"></a>
 <a href="https://telegram.dog/mh_world"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Lɪɴᴋ-blue.svg?logo=telegram"></a>
 <a href="https://github.com/TG-V4MP1R3"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=github&labelColor=black"></a>
 
