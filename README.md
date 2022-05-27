@@ -12,24 +12,18 @@
   <p align="center">
 <img src="https://media.giphy.com/media/UO3ciqKzpEysXdRuzM/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
- <p align="center">
-<a href="#"><img title="V4MP1R3" src="https://img.shields.io/badge/V4MP1R3-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://t.me/KP51107"><img title="CONTACT" src="https://img.shields.io/badge/TELEGRAM-CONTACT-/?color=blue&style=for-the-badge&logo=Telegram"></a>
-</p>
-</div>
+    
+<p align="middle">
+<a href="https://github.com/TG-V4MP1R3?tab=repositories"><img src="https://img.shields.io/badge/Mʏ Pʀᴏᴊᴇᴄᴛs-purple.svg?logo=github"></a>
+<a href="https://telegram.dog/mh_world"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Lɪɴᴋ-blue.svg?logo=telegram"></a>
+<a href="https://github.com/TG-V4MP1R3"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=github&labelColor=black"></a>
 
-
-
-- 🧑 My Real Name is **Kiran**
-
-- 📖 I’m currently learning **Python** and **Java**
-
-- 👨‍💻 All of my projects are available
-                   **[Here](https://github.com/TG-V4MP1R3?tab=repositories)**
-
-- 🆓 Don't Forget To **[Follow Me](https://github.com/TG-V4MP1R3)**
+<p align="middle">
+</p>                                                           
+                                                    
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/KP51107)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/KP51107)
+[![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/mh_world)
 
 
 ----
