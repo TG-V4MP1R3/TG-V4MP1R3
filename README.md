@@ -1,7 +1,7 @@
 ## <!-- Typing SVG -->
 <p align="center">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+Profile."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+Github+Profile."
             alt="Typing SVG"
         />
     </a>
